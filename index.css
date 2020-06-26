@@ -102,9 +102,68 @@ main {
     transform: scale(1.2);
 }
 
+.main__header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .search__input {
     border: 0;
     background: transparent;
+}
+
+.add_friend_button {
+    background-color: var(--action-primary);
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    border: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.card {
+    background-color: var(--white);
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card dt {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.card dd {
+    margin: 0;
+    color: var(--dark-grey);
+}
+
+.tags {
+    margin: 15px 0 30px 0;
+}
+
+.tag {
+    box-sizing: content-box;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.primary-light {
+    background-color: var(--light-primary);
+}
+
+.light-danger {
+    background-color: var(--light-danger);
+}
+
+.card__link {
+    margin: 20px 0 10px 0;
+    display: block;
 }
 
 @media screen and (min-width: 992px) {
