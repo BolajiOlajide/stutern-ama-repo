@@ -12,6 +12,6 @@ Design Credit: [Dashboard Designs](https://dashboardsdesign.com/)
 
 ## Resources
 
-[MDN (HTML Elements)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-[Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-[Semantic HTML (Pluralsight)](https://app.pluralsight.com/library/courses/semantic-html-2329/table-of-contents?aid=7010a000002LUv2AAG)
+* [MDN (HTML Elements)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+* [Semantic HTML (Pluralsight)](https://app.pluralsight.com/library/courses/semantic-html-2329/table-of-contents?aid=7010a000002LUv2AAG)
