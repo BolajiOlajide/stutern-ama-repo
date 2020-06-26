@@ -1,12 +1,12 @@
-# AMA REPO
+# Stutern AMA REPO
 
 This repository houses resources to be used for my AMA session with the learners at Stutern.
 
 The purpose of this repository is to show practical examples of the following:
 
+* Semantic HTML
 * Git concepts (such as Rebasing, Squashing, Revert)
 * CSS Responsiveness
-* Semantic HTML
 
 ## Design
 
