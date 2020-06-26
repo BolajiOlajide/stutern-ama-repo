@@ -161,6 +161,7 @@ main {
     display: block;
 }
 
+/* desktop styles */
 @media screen and (min-width: 992px) {
     body {
         display: grid;
@@ -180,5 +181,9 @@ main {
 
     .divider, .nav-icon {
         display: block;
+    }
+
+    .card {
+        width: 400px;
     }
 }
