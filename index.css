@@ -23,6 +23,7 @@
 
 * {
     box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 body {
@@ -42,7 +43,21 @@ nav {
 }
 
 main {
-    margin: 0 10px;
+    margin: 20px;
+}
+
+.search__container {
+    display: flex;
+    align-items: center;
+}
+
+.search__icon {
+    transform: scale(0.7);
+    cursor: pointer;
+}
+
+.search__icon:hover {
+    transform: scale(1);
 }
 
 .hamburger {
@@ -85,6 +100,11 @@ main {
 
 .nav-icon:hover {
     transform: scale(1.2);
+}
+
+.search__input {
+    border: 0;
+    background: transparent;
 }
 
 @media screen and (min-width: 992px) {
