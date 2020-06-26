@@ -1,0 +1,20 @@
+:root {
+    --action-primary: #4339F2;
+    --action-success: #34B53A;
+    --white: #FFFFFF;
+    --light-primary: #DAD7FE;
+    --grey: #F8F8F8;
+    --action-info: #02A0FC;
+    --action-danger: #FF3A29;
+    --action-warning: #FFB200;
+    --light-danger: #FFE5D3;
+    --light-warning: #FFF5CC;
+    --light-success: #E2FBD7;
+    --light-info: #CCF8FE;
+    --black: #000000;
+    --background: #F2F2F2;
+}
+
+body {
+    background: var(--background);
+}
