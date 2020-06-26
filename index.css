@@ -91,10 +91,11 @@ main {
     display: none;
     margin: 20px 0;
     cursor: pointer;
+    transition: transform 0.5s ease-in-out;
 }
 
 .nav-icon:hover {
-    transform: scale(1.2);
+    transform: scale(1.5);
 }
 
 .main__header {
@@ -183,7 +184,13 @@ main {
         display: block;
     }
 
+    .cards {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 30px;
+    }
+
     .card {
-        width: 400px;
+        width: 380px;
     }
 }
