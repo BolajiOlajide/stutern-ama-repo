@@ -8,14 +8,7 @@ The purpose of this repository is to show practical examples of the following:
 * CSS Responsiveness
 * Semantic HTML
 
-## Resources
-
-* [MDN (HTML Elements)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-* [Semantic HTML (Pluralsight)](https://app.pluralsight.com/library/courses/semantic-html-2329/table-of-contents?aid=7010a000002LUv2AAG)
-* [Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
-
-### Design
+## Design
 
 ![Mockup for this Repository](https://github.com/BolajiOlajide/stutern-ama-repo/blob/master/mockup.jpg?raw=true)
 
